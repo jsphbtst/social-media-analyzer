@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "Keep track of your day-to-day social media usage!",
-  "content_security_policy": "script-src 'self' 'sha256-Z8TvslM3FtoTGmNUMr3rzhB/7Sm+zWPe89dWKYUWEiU='; object-src 'self'",  
+  "content_security_policy": "script-src 'self' 'sha256-Z8TvslM3FtoTGmNUMr3rzhB/7Sm+zWPe89dWKYUWEiU='; object-src 'self'",
   "icons": {
     "16": "favicon.ico",
     "48": "logo192.png",
